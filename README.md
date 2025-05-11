@@ -1,4 +1,5 @@
-### Analisis & Prediksi Capital Bike Sharing 2025
+### Analisis & Prediksi Capital Bike Sharing
+Optimasi Operasional Bike Sharing: Memprediksi Jumlah Pengguna Berdasarkan Kondisi Cuaca dan Waktu
 
 #### Gambaran Umum
 Repositori ini berisi analisis dan pemodelan prediktif dari dataset Capital Bike Sharing untuk mengoptimalkan efisiensi operasional. Proyek ini berfokus pada prediksi jumlah penyewaan sepeda berdasarkan kondisi cuaca dan faktor waktu, dengan memanfaatkan teknik machine learning.
